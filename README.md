@@ -10,3 +10,5 @@ Features:
 6. Button to clear chat and return focus to bottom input prompt.
 7. Button to programmatically append user and assistant content to conversation.
 8. Integrates a (fake) placeholder for requesting userid or performing authentication.
+
+Unsupported.
