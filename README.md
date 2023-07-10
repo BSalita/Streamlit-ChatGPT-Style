@@ -1,5 +1,5 @@
 # Streamlit-ChatGPT-Style
-Example of a ChatGPT clone written in Streamlit.
+Example of a ChatGPT clone written in Streamlit. Similar conversation UI to openai's chat or Whatsapp.
 
 Features:
 1. Sticky top headers.
