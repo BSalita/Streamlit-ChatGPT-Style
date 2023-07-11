@@ -2,7 +2,7 @@
 Example of a ChatGPT clone written in Streamlit. Similar conversation UI to openai's chat or Whatsapp.
 
 Features:
-1. Sticky top headers.
+1. Sticky top headers. Sticky on Bing and Chrome but scrolls up and off on FireFox.
 2. Sticky bottom chat input prompt.
 3. Scrollable conversation area.
 4. Uses streamlit-chat style chat conversation UI (as opposed to streamlit's chat api).
